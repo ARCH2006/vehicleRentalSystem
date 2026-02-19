@@ -13,12 +13,6 @@ public class Vehicle {
         this.vehicle_type = vehicle_type;
         this.isAvailable= isAvailable;
     }
-   
-
-
-
-
-
 
     
 }
